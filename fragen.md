@@ -1,28 +1,24 @@
-<!--
+---
+marp: true
 theme: gaia
 class:
- - invert
-headingDivider: 2 
+  - lead
+  - invert
 paginate: true
--->
-
-<!--
-_class:
- - lead
- - invert
--->
+headingDivider: 2
+---
 
 # Papa wird 60
 
-Alter ist ist ja auch nur eine Zahl.
+Alter ist ist auch nur eine Zahl
 
 ## Micha in Zahlen
 
-Deshalb spielen wir ein Ratespiel.
+Deshalb spielen wir ein Ratespiel
 
 ## Regeln
 
-Zu den Frage schreibt jeder seine Schätzung auf einen Zettel.  
+Zu den Fragen schreibt jeder seine Schätzung auf einen Zettel.  
 Wer am nächsten an Michas eigener Angabe liegt, gewinnt einen Punkt.
 
 ## Beispielfrage
