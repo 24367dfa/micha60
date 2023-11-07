@@ -27,24 +27,24 @@ jobs:
       - name: Copy images directory (if exists)
         run: if [[ -d img ]]; then cp -R img build/img; fi
 
-      - name: Marp Build (README)
+      - name: Marp Build (fragen)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md -o build/index.html
+          args: fragen.md -o build/index.html
         env:
           MARP_USER: root:root
 
-      - name: Marp Build (README.pdf)
+      - name: Marp Build (fragen.pdf)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md --allow-local-files -o build/README.pdf
+          args: fragen.md --allow-local-files -o build/fragen.pdf
         env:
           MARP_USER: root:root
 
-      - name: Marp Build (README.pptx)
+      - name: Marp Build (fragen.pptx)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: README.md --allow-local-files -o build/README.pptx
+          args: fragen.md --allow-local-files -o build/fragen.pptx
         env:
           MARP_USER: root:root
 
