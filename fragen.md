@@ -50,3 +50,23 @@ In welchem Alter hat Papa einen bodenlangen Ledermantel getragen?
 ## 6 
 
 In wie vielen Wohnungen hat Papa schon gelebt?
+
+## 7
+
+Wie hoch ist der höchste Berg, auf den Papa bereits gestiegen ist?
+
+## 8
+
+Was ist das Baujahr des ältesten Autos, dass Papa besitzt/besaß?
+
+## 9
+
+Wie lang war die längste Tagesetappe einer Wanderung, die Papa gemacht hat?
+
+## 10
+
+Wie viele km ist ist das weiteste Reiseziel entfernt, das Papa besucht hat?
+
+## 11
+
+Wie viele Bücher besitzt Papa?
